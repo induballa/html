@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>class10</title>
+    <link rel="stylesheet"href="css/sty10.css"type="text/css"/>
+</head>
+<body>
+    <!--required,value attr,size-->
+<form>
+<label>enter your url website</label>
+<input type="url"class="form-control"  size="100"required/>
+<input type="submit"value="submit"/><br><br>
+
+</form>
+<!--readonly-->
+<form>
+    <label>enter phone number</label>
+    <input type="tel" class="form-control" value="123-456-7891"pattern="{0-9}{3}-{0-9}{3}-{0-9}{4}" readonly/>
+    <input type="submit"value="submit"/><br><br>
+</form>
+<!--pattern, diasbled-->
+<form>
+    <label>enter phone number</label>
+    <input type="tel" class="form-control" value="123-456-7891"pattern="{0-9}{3}-{0-9}{3}-{0-9}{4}" disabled/>
+    <input type="submit"value="submit"/><br><br>
+    </form>
+    <!--multiple attribute-->
+    <form>
+        <label for="resume">upload resume</label>
+        <input type="file" multiple/>
+        <input type="submit"value="submit"/><br><br>
+    </form>
+    <!--placeholder-->
+    <form>
+     <input type="text"placeholder="enter your name"/><br><br>
+    </form>
+    <!--autofocus attr,image-->
+    <form>
+        <input type="text"placeholder="name"autofocus/>
+        <input type="image" src="images/logo.png"alt="submit"/><br><br>
+    </form>
+    <!--list attributes-->
+    <!--drop down list-->
+    <form>
+     <input list="browsers" name="browser"id="browser"/>
+     <datalist id="browsers"name="browser"><br><br>
+         <option value="firefox"/>
+         <option value="google"/>
+         <option value="youtube"/><br><br>
+
+     </datalist>
+    </form>
+    <!--autocomplete-->
+<form autocomplete="on">
+    <input type="text"placeholder="name"/>
+    <input type="submit"value="submit"/><br><br>
+</form>
+<!--form attributes-->
+<!--action,target,method,novalidate-->
+<form action="thankyou.php" target="blank" method="get" novalidate>
+</form>
+<!--html multi media-->
+<h1>html multi media</h1>
+<video width="320" height="240" controls>
+    <source src="videos/cat.mp4" type="video/mp4">
+   
+  </video>
+  <audio controls>
+    <source src="horse.OGV" type="audio/OGV">
+  </audio>
+
+  
+<div class="box">
+<h1>iam in h1 heading</h1>
+</div>
+
+
+
+
+
+</body>
+
+
+
+
+
+
+</html>
