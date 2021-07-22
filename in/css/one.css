@@ -1,0 +1,129 @@
+header,section,footer{
+    float: left;
+    width:100%
+}
+.container{
+     width:1350px;
+    margin:0px auto;
+}
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana;
+
+}
+.img-fluid{
+    max-width: 100%;
+}
+.header-part1{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    width: 30%;
+    float: left;
+}
+.header-part2{
+    margin-top: 15px;
+    width: 70%;
+    float: left;
+}
+.icons ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+.icons{
+    float: left;
+}
+.menu-icon{
+    float:left;
+    font-size: 20px;
+    color: #7f7f7f;
+    margin: 13px 0px 0px 34px;
+}
+.nav{
+    float:right;
+}
+.banner-part{
+    background: #989898;
+    padding-top: 212px;
+    padding-bottom: 238px;
+    text-align: center;
+}
+.banner-part h1{
+    font-size: 40px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    font-weight: normal;
+}
+.banner-part p{
+    font-size: 22px;
+    margin-bottom: 20px;
+    color: #ffffff;
+}
+.btn-style{
+    background-color: #c7b199;
+    padding: 15px 75px 22px 32px;
+    font-size: 14px;
+    color: #ffffff;
+    border-radius: 4px;
+    border: 1px solid #c7b199;
+    text-align: center;
+}
+.btn-style1 img{
+    position: relative;
+    top:2px;
+}
+.btn-style1{
+    background-color: #fff;
+    font-weight: bold;
+    padding: 15px 75px 22px 32px;
+    font-size: 14px;
+    color: #010101;
+    border-radius: 4px;
+    border:1px solid #fff;
+    text-align: center;
+}
+.background{
+    width:100%;
+    float:left;
+    background-color:#cccccc;
+ padding-top:211px;
+ padding-bottom:272PX;
+ text-align:center;
+}
+.background h1{
+    color:white;
+    font-size:40px;
+    margin-bottom:34px;
+}
+.background p{
+    color:white;
+    font-size:22px;
+    margin-bottom:25px;
+}
+.btn-style{
+    background-color:#c7b199;
+    padding:22px 32px 22px 32px;
+    font-size:14px;
+    color:#ffffff;
+    border-radius:4px;
+    border: 1px solid #c7b199;
+
+}
+.btn-style1 img{
+    position:relative;
+}
+.btn-style1{
+  border:1px solid white;
+    background-color:#fff;
+    padding:22px 75px 22px 25px;
+    font-size:14px;
+    border-radius:4px;
+    text-align:center;
+}
+.image{
+    width:100%;
+    float:left;
+}

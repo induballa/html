@@ -1,0 +1,749 @@
+/*ipad pro portrait mode*/
+@media only screen and (min-width:992px) and (max-width:1199px){
+    .container{
+        width:960px;
+    }
+    .con1 {
+        width: 26%;
+        float: left;
+        text-align: center;
+        margin-right: 80px;
+    }
+    .con2 {
+        width: 26%;
+        float: left;
+        text-align: center;
+        margin-right: 80px;
+    }
+    .con3 {
+        width: 26%;
+        float: left;
+        text-align: center;
+    }
+    .blogs{
+        margin:0px;
+    }
+    .blog-img img {
+        width: 90%;
+        margin-right: 10px;
+    }
+    .date {
+        float: left;
+        background-color: #ebe2d9;
+        width: 30%;
+        text-align: center;
+        height: 294px;
+        padding-top: 40px;
+        text-align: center;
+    }
+    .contents {
+        float: left;
+        padding-left: 24px;
+        padding-right: 19px;
+        width: 70%;
+        height: 294px;
+        padding-top: 40px;
+    }
+    .blog-box:first-child{
+        margin-left:0px;
+    }
+    .one img {
+        float: right;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .one p {
+        margin-bottom: 20px;
+        text-align: left;
+        width: 75%;
+    }
+      
+    .two img {
+        float: right;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .two p {
+        margin-bottom: 20px;
+        text-align: left;
+        width: 75%;
+    }
+    .three img {
+        float: right;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .three p {
+        margin-bottom: 20px;
+        text-align: left;
+        width: 75%;
+    }
+    .four img {
+        float: left;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .four p {
+        margin-bottom: 20px;
+       
+       
+    }
+   
+    .five img {
+        float: left;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .five p {
+        margin-bottom: 20px;
+        
+       
+    }
+   
+    .six img {
+        float: left;
+        padding-right: 2px;
+        width: 25%;
+        margin-right: 20px;
+    }
+    .six p {
+        margin-bottom: 20px;
+     
+       
+    }
+    
+}
+/*ipad portrait*/
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        width: 720px;
+    }
+
+    .img {
+        background-position: right;
+    }
+
+    .services p {
+        padding: 20px 20px;
+    }
+
+    .one img {
+        padding-right: 10px;
+    }
+
+    .one h4 {
+        padding-bottom: 10px;
+    }
+
+    .one p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+    }
+
+    .two img {
+        padding-right: 10px;
+    }
+
+    .two h4 {
+        padding-bottom: 10px;
+    }
+
+    .two p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+    }
+
+    .three img {
+        padding-right: 10px;
+    }
+
+    .three h4 {
+        padding-bottom: 10px;
+    }
+
+    .three p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+    }
+
+    .four img {
+        padding: 0px;
+    }
+
+    .four h4 {
+        padding-bottom: 10px;
+    }
+
+    .four p {
+        margin-bottom: 40px;
+        padding: 0px;
+    }
+
+    .five img {
+        padding: 0px;
+    }
+
+    .five h4 {
+        padding-bottom: 10px;
+    }
+
+    .five p {
+        margin-bottom: 20px;
+        padding: 0px;
+    }
+
+    .six img {
+        padding: 0px;
+    }
+
+    .six h4 {
+        padding-bottom: 10px;
+    }
+
+    .six p {
+        margin-bottom: 40px;
+        padding: 0px;
+    }
+
+    .insp h1 {
+        margin: 50px 50px;
+    }
+
+    .con1 {
+        width: 22%;
+        margin-right: 100px;
+    }
+
+        .con1 img {
+            width: 100%;
+            padding-bottom: 20px;
+        }
+
+        .con1 p {
+            padding-bottom: 20px;
+        }
+
+        .con1 h5 {
+            font-size: 22px;
+            margin: 0px;
+        }
+    .con2 {
+        width: 22%;
+        margin-right: 100px;
+    }
+        .con2 img {
+            width: 50%;
+            padding-bottom: 31px;
+        
+    }
+
+    .con2 p {
+        padding-bottom: 40px;
+        font-size:20px;
+    }
+
+    .con2 h5 {
+        font-size: 22px;
+        margin: 0px;
+    }
+    .con3{
+        width:22%;
+    }
+    .con3 img{
+        width:70%;
+        padding-bottom:30px;
+    }
+    .con3 p{
+        padding-bottom:52px;
+    }
+    .inspiration{
+        padding-bottom:0px;
+    }
+    .blog-heading{
+        margin:20px 20px;
+    }
+    .blogs{
+        margin:0px;
+    }
+    .blog-box{
+        padding-bottom:69px;
+    }
+    .blog-img img{
+        width:90%;
+        margin-right:10px;
+    }
+    .date{
+        width:30%;
+    }
+    .contents {
+        width: 70%;
+        padding-top: 20px;
+    }
+    .contents h4{
+        font-size:15px;
+        margin-bottom:18px;
+    }
+    .contents p{
+        font-size:12px;
+        line-height:20px;
+    }
+}
+/*mobile landscape*/
+@media only screen and (min-width:568px) and (max-width:767px) {
+    .container {
+        width: 540px;
+    }
+
+    .header-part1 img {
+        width: 100%;
+    }
+
+    .background {
+        padding: 100px 100px;
+    }
+
+        .background h1 {
+            font-size: 25px;
+        }
+
+    .img {
+        padding: 100px 100px;
+        background-position: right;
+    }
+
+        .img h1 {
+            font-size: 25px;
+        }
+
+        .img p {
+            font-size: 25px;
+        }
+
+    .services p {
+        padding: 20px 20px;
+    }
+
+    .one img {
+        padding-right: 10px;
+        width: 30%;
+    }
+
+    .one h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .one p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .two img {
+        padding-right: 10px;
+        width: 30%;
+    }
+
+    .two h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .two p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .three img {
+        padding-right: 10px;
+        width: 30%;
+    }
+
+    .three h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .three p {
+        width: 100%;
+        padding: 0px;
+        margin-bottom: 40px;
+        text-align: left;
+    }
+
+    .four img {
+        padding-left: 10px;
+        padding-right: 0px;
+        width: 30%;
+    }
+
+    .four h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .four p {
+        margin-bottom: 40px;
+        padding: 0px;
+    }
+
+    .five img {
+        padding: 0px;
+        padding-right: 0px;
+        width: 25%;
+    }
+
+    .five h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .five p {
+        margin-bottom: 20px;
+        padding: 0px;
+    }
+
+    .six img {
+        padding: 0px;
+        padding-right: 0px;
+        width: 25%;
+    }
+
+    .six h4 {
+        padding-bottom: 10px;
+        font-size: 15px;
+    }
+
+    .six p {
+        margin-bottom: 40px;
+        padding: 0px;
+    }
+
+    .insp h1 {
+        margin: 100px 80px;
+        font-size: 25px;
+    }
+
+    .con1 {
+        width: 22%;
+        margin-right: 100px;
+    }
+
+        .con1 img {
+            width: 100%;
+            padding-bottom: 20px;
+        }
+
+        .con1 p {
+            padding-bottom: 20px;
+            font-size: 15px;
+        }
+
+        .con1 h5 {
+            font-size: 22px;
+            margin: 0px;
+        }
+
+    .con2 {
+        width: 22%;
+        margin-right: 100px;
+    }
+
+        .con2 img {
+            width: 50%;
+            padding-bottom: 20px;
+        }
+
+        .con2 p {
+            padding-bottom: 20px;
+            font-size: 15px;
+        }
+
+        .con2 h5 {
+            font-size: 22px;
+            margin: 0px;
+        }
+
+    .con3 {
+        width: 22%;
+    }
+
+        .con3 img {
+            width: 75%;
+            padding-bottom: 20px;
+        }
+
+        .con3 p {
+            padding-bottom: 20px;
+            font-size: 15px;
+        }
+
+        .con3 h5 {
+            font-size: 22px;
+            margin: 0px;
+        }
+
+    .blog-heading {
+        margin: 20px 30px;
+    }
+
+    .blogs {
+        margin: 0px;
+    }
+    .blog-box {
+        padding-bottom: 69px;
+    }
+
+    .blog-img img {
+        width: 90%;
+        margin-right: 10px;
+    }
+
+    .date {
+        width: 30%;
+    }
+
+    .contents {
+        width: 70%;
+        padding-top: 20px;
+    }
+
+        .contents h4 {
+            font-size: 12px;
+            margin-bottom: 18px;
+        }
+
+        .contents p {
+            font-size: 10px;
+            line-height: 15px;
+        }
+        .date p{
+            font-size:12px;
+        }
+        .date{
+            line-height:220px;
+        }
+    .black1 {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .black h1{
+        font-size:27px;
+        padding-bottom:30px;
+    }
+}
+/*iphonex*/
+@media only screen and (max-width:479px) {
+    .container {
+        width: 100%;
+    }
+
+    .header-part1 {
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-part2 {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .nav {
+        float: left;
+    }
+
+    .background {
+        padding: 10px 10px;
+    }
+
+        .background h1 {
+            font-size: 15px;
+            margin-bottom: 20px;
+        }
+
+        .background p {
+            font-size: 15px;
+            margin-bottom: 25px;
+        }
+
+    .btn-style {
+        padding: 10px 10px 10px 10px;
+        font-size: 12px;
+        margin-bottom: 10px;
+    }
+
+    .btn-style1 {
+        padding: 5px 10px 10px 10px;
+        font-size: 12px;
+    }
+
+    .img {
+        padding: 20px 20px;
+    }
+
+        .img h1 {
+            font-size: 15px;
+        }
+
+        .img p {
+            font-size: 15px;
+        }
+
+    .btn-style2 {
+        width: 100px;
+        height: 40px;
+        margin-top: 20px;
+        margin-bottom: 40px;
+    }
+
+    .services h1 {
+        font-size: 15px;
+        padding-top: 20px;
+    }
+
+    .services p {
+        font-size: 15px;
+        padding-bottom: 20px;
+    }
+
+    .service1 {
+        width: 100%;
+    }
+
+    .service2 {
+        width: 100%;
+    }
+
+    .services p {
+        font-size: 12px;
+        padding-bottom: 10px;
+    }
+
+    .four img {
+        padding-left: 10px;
+    }
+
+    .five img {
+        padding-left: 10px;
+    }
+
+    .six img {
+        padding-left: 10px;
+    }
+
+    .four h4 {
+        font-size: 12px;
+    }
+
+    .five h4 {
+        font-size: 12px;
+    }
+
+    .six h4 {
+        font-size: 12px;
+    }
+
+    .one h4 {
+        font-size: 12px;
+    }
+
+    .two h4 {
+        font-size: 12px;
+    }
+
+    .three h4 {
+        font-size: 12px;
+    }
+
+    .one img {
+        padding-right: 10px;
+    }
+
+    .two img {
+        padding-right: 10px;
+    }
+
+    .three img {
+        padding-right: 10px;
+    }
+
+    .insp h1 {
+        margin-top: 30px;
+       margin-bottom:30px;
+        font-size: 15px;
+    }
+    .inspiration{
+        background-repeat:repeat;
+    }
+    .con1{
+        width:100%;
+    }
+    .con2 {
+        width: 100%;
+    }
+    .con3 {
+        width: 100%;
+    }
+  .con1 h5{
+      margin-bottom:50px;
+  }
+  .con2 h5{
+      margin-bottom:50px;
+  }
+  .con3 h5{
+      margin-bottom:50px;
+  }
+  .con2 p{
+      font-size:15px;
+  }
+  .con1 p{
+      font-size:15px;
+  }
+  .con3 p{
+      font-size:15px;
+  }
+  .blog-heading{
+      margin:20px 20px;
+  }
+  .blogs{
+      margin:0px;
+  }
+    .blog-box {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .black1{
+        margin:20px 20px;
+    }
+        .black1 h1 {
+            font-size: 20px;
+            padding-bottom: 22px;
+        }
+    .white {
+        width: 275px;
+        height: 50px;
+        font-size: 15px;
+    }
+    .white1 {
+        width: 100px;
+        height: 50px;
+        font-size: 12px;
+    }
+    .black1 p {
+        padding-top: 20px;
+        font-size: 12px;
+    }
+}

@@ -1,0 +1,483 @@
+@media only screen and (min-width:992px) and (max-width:1199px) {
+
+    .container {
+        width: 960px;
+    }
+    .text_content{
+        font-size:40px!important;
+    }
+    .banner {
+        background-position: right top;
+        padding-bottom: 10px;
+    }
+
+    .about-course1 {
+        width: 24%;
+        margin-right: 8px;
+        height: 100px;
+    }
+
+    .paimg h2 {
+        margin-top: 30px;
+    }
+
+    .paimg p {
+        font-size: 24px;
+        text-align: center;
+    }
+
+    .careers1 img {
+        margin-right: 10px;
+        padding-left: 10px;
+    }
+
+    .content h5 {
+        font-size: 15px;
+    }
+    .student11 {
+        width: 22%;
+        padding: 3%;
+        margin-right: 20px;
+        min-height:300px;
+        
+    }
+    
+}
+/*ipad portrait*/
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .container {
+        width: 720px;
+    }
+    .text_content {
+        font-size: 30px !important;
+    }
+    .banner1 {
+        width: 60%;
+    }
+
+    .banner2 {
+        width: 40%;
+    }
+
+    .banner1 h1 {
+        font-size: 25px;
+    }
+
+    .banner1 p {
+        font-size: 20px;
+        margin-bottom: 10px;
+    }
+
+    .banner1 h2 {
+        font-size: 25px;
+    }
+
+    .banner1 ul li {
+        font-size: 20px;
+    }
+
+    .banner {
+        background-position: right;
+        padding-bottom: 0px;
+    }
+
+    .about-course1 {
+        width: 22.2%;
+        margin-right: 20px;
+        height: 100px;
+    }
+
+    .icon img {
+        width: 30px;
+    }
+
+    .content h5 {
+        font-size: 15px;
+    }
+
+    .paimg p {
+        font-size: 20px;
+        text-align: initial;
+    }
+
+    .paimg1 {
+        width: 22%;
+        margin-right: 21px;
+    }
+
+    .text p {
+        text-align: justify;
+    }
+
+    .background-img {
+        background-size: cover;
+    }
+
+    .text1 {
+        background-repeat: no-repeat;
+        margin-top: 30px;
+    }
+
+    .benfits1 {
+        margin: 0px;
+        width:70%;
+    }
+    .benfits12 img {
+        width: 30%;
+    }
+        .student11 {
+        width: 22%;
+        min-height: 300px;
+        padding: 0px;
+        margin-right: 21px;
+    }
+}
+@media only screen and (min-width:568px) and (max-width:767px) {
+    .container {
+        width: 540px;
+    }
+    .text_content {
+        font-size: 20px !important;
+    }
+
+    .header1 img {
+        width: 200px;
+    }
+
+    .header2 ul li img {
+        width: 22px;
+    }
+
+    .header2 ul li {
+        margin-right: 50px;
+    }
+
+    .header2 ul {
+        margin-top: 0px;
+    }
+
+    .slideshow {
+        height: 300px;
+    }
+
+    .banner {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+
+    .banner1 h1 {
+        font-size: 20px;
+    }
+
+    element.style {
+    }
+
+    .banner1 p {
+        font-size: 15px;
+    }
+
+    .banner1 h2 {
+        font-size: 20px;
+    }
+
+    .banner1 ul li {
+        font-size: 15px;
+        padding-left: 0px;
+    }
+
+    .form {
+        padding: 20px;
+    }
+
+    .banner2 h3 {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .form-control {
+        font-size: 12px;
+    }
+
+    .btn {
+        width: 100px;
+        margin-top: 20px;
+    }
+
+    .btn1 {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        margin-top: 10px;
+    }
+
+    .about-course1 {
+        width: 21.2%;
+        height: 60px;
+        padding: 0px;
+    }
+
+    .icon img {
+        width: 20px;
+    }
+
+    .content p {
+        font-size: 12px;
+    }
+
+    .content h5 {
+        font-size: 13px;
+    }
+
+    .paimg h2 {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+
+    .paimg p {
+        font-size: 15px;
+    }
+
+    .paimg1 {
+        width: 21.2%;
+        padding: 10px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+        height: 253px;
+    }
+
+        .paimg1 p {
+            font-size: 12px;
+        }
+
+    .text p {
+        font-size: 15px;
+    }
+
+    .text1 {
+        padding-top: 20px;
+        padding-bottom: 0px;
+        margin-top: 30px;
+        padding-left: 30px;
+        background-repeat: no-repeat;
+    }
+
+        .text1 h2 {
+            font-size: 20px;
+        }
+
+        .text1 h3 {
+            font-size: 15px;
+        }
+
+    .benfits1 {
+        margin-top: 10px;
+    }
+
+    .benfits12 ul li {
+        font-size: 15px;
+    }
+
+    element.style {
+    }
+
+    .careers1 h1 {
+        padding-bottom: 10px;
+        padding-top: 10px;
+        font-size: 20px;
+    }
+
+    .careers1 h4 {
+        font-size: 15px;
+    }
+
+    .careers1 img {
+        float: left;
+        margin-right: 10px;
+        margin-bottom: 30px;
+        text-align: center;
+        padding-top: 20px;
+        padding-left: 20px;
+    }
+
+    .students1 h1 {
+        padding-bottom: 10px;
+    }
+
+    .student1 p {
+        font-size: 15px;
+    }
+
+    .student11 {
+        width: 21.2%;
+        padding: 1%;
+    }
+
+    .visit1 {
+        margin: 0px;
+    }
+}
+@media only screen and (max-width:479px) {
+    .container {
+        width: 100%;
+        margin: auto;
+    }
+    body {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .text_content {
+        font-size: 18px !important;
+    }
+    .header1 {
+        float: left;
+        width: 100%;
+        text-align: center;
+    }
+        .header1 img {
+            width: 200px;
+            margin-left: 10px;
+        }
+
+    .header2 {
+        width: 100%;
+        text-align: center;
+    }
+
+        .header2 ul {
+            margin-top: 10px;
+        }
+
+            .header2 ul li {
+                font-size: 14px;
+                margin-right: 10px;
+                margin-left: 10px;
+            }
+            .banner{
+                padding:0px;
+            }
+           .banner1{
+             width:100%;
+            }
+            .banner1 h1{
+                font-size:20px;
+            }
+            .banner1 p{
+                font-size:15px;
+            }
+            .banner1 h2{
+                font-size:20px;
+            }
+            .banner1 ul li {
+                font-size: 15px;
+                margin-bottom: 5px;
+                padding-left: 10px;
+            }
+            .banner2{
+                width:100%;
+            }
+            .btn{
+                width:100%;
+            }
+            .btn1{
+                width:70%;
+                padding:0px;
+                font-size:10px;
+                margin:10px 50px 10px 50px;
+            }
+            .about-course1{
+                width:100%;
+            }
+            .paimg h2 {
+            margin-top: 10px;
+            margin-bottom: 10px;
+             font-size: 20px;
+             }
+            .paimg p{
+                font-size:15px;
+            }
+            .paimg1{
+                width:100%;
+                margin-top:10px;
+                margin-bottom:10px;
+            }
+            .text p{
+                font-size:15px;
+            }
+             .text1 {
+              margin-top: 10px;
+               background-repeat: no-repeat;
+              padding-top: 50px;
+               padding-bottom: 30px;
+             }
+            .text1 h2{
+                font-size:15px;
+            }
+            .text1 h3{
+                font-size:12px;
+            }
+            .text1 h4{
+                font-size:12px;
+            }
+            .benfits1 {
+             width: 100%;
+              margin-top: 10px;
+              padding-bottom: 10px;
+              padding-top: 10px;
+             }
+             .benfits12 h1 {
+             font-size: 20px;
+              }
+             .benfits12 ul li{
+                 font-size:15px;
+                
+             }
+             .benfits12 img{
+                 width:100%;
+                 margin-top:10px;
+                 padding-bottom:10px;
+             }
+             .careers1 h1{
+                 padding-top:10px;
+                 padding-bottom:10px;
+                 font-size:20px;
+             }
+             .careers1 h4{
+                 font-size:15px;
+             }
+             .careers1 img{
+                 width:100%;
+                 margin:0px;
+                 padding:10px 10px;
+             }
+             .students1{
+                 margin:10px 10px;
+             }
+             .students1 h1{
+                 padding-bottom:10px;
+                 font-size:20px;
+             }
+             .students1 p{
+                 font-size:15px;
+             }
+             .student11{
+                 width:100%;
+                 min-height:0px;
+             }
+             .visit1{
+                 padding:10px 10px;
+                 margin-top:10px;
+             }
+             .visit1 h1{
+                 font-size:20px;
+             }
+             .visit1 p{
+                 font-size:15px;
+             }
+             .footer{
+                 width:40%;
+                 font-size:15px;
+             }
+             .footer1{
+                 width:60%;
+                 font-size:15px;
+             }
+             }

@@ -1,0 +1,16 @@
+.about-us{
+    background-image:url(../images/pink.jpg);
+    text-align:left;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-attachment:fixed;
+}
+table,th,td{
+    border:2px solid grey;
+    border-spacing:5px;
+
+}
+th,td{
+    padding:20px;
+    text-align:center;
+}

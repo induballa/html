@@ -1,0 +1,48 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: Calibri,sans-serif;
+    font-size:18px;
+  
+}
+
+*{
+    box-sizing:border-box;
+}
+header,footer,section{
+    float:left;
+    width:100%;
+}
+.container{
+    width:1300px;
+    margin:auto;
+}
+.header{
+    width:100%;
+    float:left;
+    height:50px;
+    background-color:black;
+}
+.head1{
+    width:40%;
+    float:left;
+}
+.head1 ul li{
+    list-style-type:none;
+    display:inline-block;
+    color:gray;
+    margin-top:10px;
+  
+}
+.head2{
+    width:60%;
+    float:left;
+    text-align: right;
+    margin-top: 10px;
+}
+.head2 img{
+    width:20px;
+    display:inline-block;
+}

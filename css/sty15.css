@@ -1,0 +1,137 @@
+.border{
+    border:2px solid red;
+    margin-bottom:20px;
+}
+.border1{
+  border-width:2px;
+  border-style:solid;
+  border-color:red;
+  margin-bottom:20px;
+}
+.border2{
+    border:5px solid red;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    margin-bottom:20px;
+}
+.border3{
+    border:3px solid green;
+    border-top-color: red;
+    border-bottom-color: blue;
+    border-right-color: orange;
+    border-left-color: pink;
+    margin-bottom:20px;
+}
+.border4{
+    border:4px solid blue;
+    border-top-style:dashed;
+    border-bottom-style:dotted;
+    border-right-style:groove;
+    border-left-style:none;
+    margin-bottom:20px;
+}
+.border5{
+    border:3px solid rgb(218, 150, 26);
+    border-top-width:3px;
+    border-bottom-width:5px;
+    border-right-width:6px;
+    border-left-width:1px;
+    outline: 3px solid red;
+    outline-offset: 10px;
+    margin-bottom:20px;
+}
+.margin{
+    border:2px solid red;
+    margin: 30px 20px 50px 10px;
+    margin-bottom:20px;
+}
+
+.margin p{
+ margin-bottom:20px;  
+ margin:0px; 
+}
+.margin h1{
+    margin-top:50px;
+    margin:0px;
+    margin:inherit;
+}
+.padding{
+    border:3px solid orange;
+    padding: 30px 10px 30px;
+}
+.height{
+    background-color: burlywood;
+    height:300px;
+    width:300px;
+    max-height: 500px;/*less than 500 */
+    min-width: 400px;/*more than 400*/
+   
+}
+.color p{
+color:red;
+}
+.text-align p{
+    text-align:center;
+}
+.direction p{
+    direction:rtl;
+    unicode-bidi: bidi-override;
+}
+.text-decoration a{
+text-decoration:overline;
+}
+.text-decoration p{
+text-decoration:underline;
+}
+.text-decoration h2{
+    text-decoration:overline;
+}
+.text-decoration h3{
+    text-decoration:line-through;
+}
+.text-transform h1{
+text-transform:uppercase;
+}
+.text-transform h2{
+    text-transform:lowercase;
+ }
+    .text-transform h3{
+              text-transform:capitalize
+    
+    }
+    .text-transform h4{
+        text-transform:none;
+        }
+                .text-indent p{
+text-indent:80px;
+        }
+.letter-spacing p{
+    letter-spacing:50px;
+}
+.word-spacing p{
+    word-spacing:100px;
+}
+.line-height p{
+    line-height:40px;
+}
+.white-space p{
+    white-space:pre-wrap;
+}
+.text-shadow p{
+    text-shadow:2px 2px red;
+}
+.table,th,td{
+    border:1px solid grey;
+    border-spacing:5px;
+
+}
+.th,td{
+    padding:20px;
+    text-align:center;
+}
+.table th{
+    vertical-align:top;
+}
+

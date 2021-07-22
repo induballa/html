@@ -1,0 +1,52 @@
+.color ul li{
+    list-style-type:none;
+    display:inline;
+    padding:20px;
+}
+.color ul li:first-child{
+    color:red;
+}
+.color ul li:nth-child(2){
+    color:blue;
+}
+.color ul li:nth-child(3){
+    color:aquamarine;
+}
+.color ul li:last-child{
+    color:brown;
+}
+.elements p::first-letter{
+    background-color: coral;
+    color:black;
+}
+.elements p::first-line{
+    background-color: cornflowerblue;
+}
+.elements h2::before{
+    content: '"';
+}
+.elements h2::after{
+    content:url("../images/tick.png");
+}
+::selection{
+    background-color: crimson;
+}
+::marker{
+    color:red;
+}
+img:hover{
+   opacity:0.4;
+}
+.elements a{
+    text-decoration:none;
+}
+.elements h2{
+    cursor: pointer;
+}
+.elements h3{
+    color:blue !important;
+}
+.client{
+    background-image:url(images/clients.jpg);
+    width:162px;height:79px;float:left;
+}

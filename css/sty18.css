@@ -1,0 +1,93 @@
+.bg{
+    background-color: violet;
+    margin:0px auto;
+    width:30%;
+    height:300px;
+}
+.combinators > h2{
+     color:green;
+}
+ div + p{
+    color:orange;
+}
+.combinators ol + h2{
+    color:red;
+}
+div ~ p{
+    color:blue;
+}
+.header ul li{
+    list-style-type:none;
+    display:inline;
+    padding:0px 20px;
+}
+.header a{
+    color:orange;
+}
+.header a:hover{
+    color:cyan;
+}
+.header a:focus{
+    color:violet;
+}
+.header a:visited{
+    color:rgb(52, 233, 97);
+}
+.divhover{
+    background-color: green;
+}
+.divhover:hover{
+    background-color: deeppink;
+}
+.divhover1{
+    border:3px solid green;
+}
+.divhover1:hover{
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%), 0 3px 3px rgb(0 0 0 / 15%);
+}
+.head ul li{
+    list-style-type:none;
+    display:inline;
+    padding-right:20px;
+    }
+    .head{
+        margin-bottom: 100px;
+    }
+    .head a{
+        text-decoration:none;
+    }
+    ul.drop li{
+        display:block;
+        padding:0px;
+        padding-left:0px;
+    }
+    ul.drop{
+        padding-left:0px;
+        position:absolute;
+        display: none;
+        font-size:23px;
+    }
+    .head li:hover ul.drop{
+        display:block;
+        box-shadow: 0 0 10px rgb(0 0 0 / 15%), 0 3px 3px rgb(0 0 0 / 15%);
+        padding:20px;
+    }
+    ul .sup li{
+        display:block;
+        padding:0px;
+    }
+    ul.sup{
+        padding-left:20px;
+        position:absolute;
+        display:none;
+    }
+    .head li:hover ul.sup{
+        display:block;
+        box-shadow: 0 0 10px rgb(0 0 0 / 15%), 0 3px 3px rgb(0 0 0 / 15%);
+        padding:20px;
+ 
+    }
+
+
+
+

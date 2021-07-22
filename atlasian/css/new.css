@@ -1,0 +1,131 @@
+header,section,footer{
+    float:left;
+    width:100%;
+}
+.container{
+    width:1300px;
+    margin:0px auto;
+}
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+body{
+    font-family:verdana;
+}
+.img-fluid{
+    max-width:100%;
+}
+.solution{
+    width:100%;
+    float:left;
+    margin-top:30px;
+}
+.tabs{
+    width:100%;
+    float:left;
+    margin-top:30px;
+}
+.tabs ul li{
+    list-style-type:none;
+    display:inline-block;
+    margin-right:20px;
+    padding:10px 10px 10px 10px;
+    font-size:20px;
+   
+}
+.agiletool{
+    width: 100%;
+    float: left;
+}
+.solution h1{
+    font-size:30px;
+}
+.agile{
+    width:50%;
+    float:left;
+}
+.box{
+    width:100%;
+    float:left;
+    padding: 10px;
+}
+.agile1{
+    width:50%;
+    float:left;
+}
+.agile1 img{
+    width:588px;
+    padding: 10px 10px 10px 10px;
+}
+.image{
+    width:15%;
+    float:left;
+}
+.image2{
+    width:15%;
+    float:left;
+}
+.image2 img{
+    width:30px;
+}
+
+.image1{
+    width:100%;
+}
+.content h1{
+    padding-bottom:10px;
+    font-weight: normal;
+    padding-top:10px;
+}
+.content{
+    width:85%;
+    float:left;
+   padding:10px 10px 10px 10px;
+}
+.content h3{
+    color:blue;
+    font-size:16px;
+}
+.useour{
+    width:100%;
+    float:left;
+}
+.useour h1{
+    text-align:center;
+    font-size: 31px;
+    margin: 35px;
+}
+.part11{
+    width:50%;
+    float:left;
+}
+.image111 img{
+width:100%;
+}
+.part22{
+    width:50%;
+    float:left;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    padding-left: 50px;
+}
+.imagee{
+    width:20%;
+    float:left;
+    padding-right: 20px;
+    padding-left: 40px;
+}
+.imagee img{
+    width:50px;
+}
+.content1{
+    width:80%;
+    float:left;
+}
+.content1 p{
+    margin-bottom: 10px;
+    padding-top: 15px;
+    margin-top: 10px;
+}

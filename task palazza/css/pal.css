@@ -1,0 +1,256 @@
+body,h1,h2,h3,h4,h5,h6,p,ul,li{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: Calibri,sans-serif;
+    font-size:18px;
+  
+}
+
+*{
+    box-sizing:border-box;
+}
+header,footer,section{
+    float:left;
+    width:100%;
+}
+.container{
+    width:1300px;
+    margin:auto;
+}
+.head{
+    width:100%;
+    float:left;
+}
+.head1{
+    width:40%;
+    float:left;
+    margin-top:40px;
+}
+.head2{
+    width:60%;
+    float:left;
+    margin-top:40px;
+  
+}
+.head2 td{
+    padding-right:20px;
+}
+.background{
+    width:100%;
+    float:left;
+}
+.back img{   
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin-bottom:20px;
+}
+.form{
+    width:100%;
+    float:left;
+}
+.form1{
+    width: 30%;
+    box-shadow: 0 0 10px rgb(0 0 0 / 15%), 0 3px 3px rgb(0 0 0 / 15%);
+    margin: auto;
+    padding: 20px;
+    text-align:center;  
+    
+}
+.form3{
+   background-color:#bd9234;
+   border-color:#bd9234;
+   border-bottom:#bd9234;
+   border-right:#bd9234;
+   color:white;
+   font-size:20px;
+   margin-bottom:20px;
+}
+.form1 h1{
+    padding-bottom:20px;
+}
+.form2{
+   margin-bottom:20px;
+    padding-bottom:10px;
+   padding-top:10px;
+}
+
+.welcome{
+    width:100%;
+    float:left;
+    margin-top:5px;
+    background: #fafafa;
+}
+.welcome1{
+    width:50%; 
+    float:left;
+    text-align: center;
+    padding-bottom:20px;
+}
+.welcome h1{
+    text-align:center;
+    margin-top:20px;
+}
+.welcome p{
+    padding-bottom:20px;
+}
+.image{
+    width:100%;
+    float:left;
+    background: #fafafa;
+}
+.image1{
+    width:30%;
+    float:left;  
+ 
+    margin-left: 100px;
+  
+    
+}
+.well{
+    width:60%;
+    float:left;
+    padding-left:50px;
+    margin-left: 10px;
+}
+.well p{
+    padding-bottom:20px;
+    }
+    .well ul li{
+        list-style-type:disc;
+        padding-bottom:20px;
+    }
+    .ame{
+        width:100%;
+        float:left;
+        background: #f6f2e3;
+        margin-top:10px;
+    }
+    .ame1{
+       width:21.7%;
+        float:left;
+    }
+    .ame1{
+        width:21.7%;
+        float:left;
+    }
+    .ame1{
+        width:21.7%;
+        float:left;
+        margin-right: 150px;
+    }
+    
+    .ame1{
+        width:21.7%;
+        float:left;
+    }  
+    .ame1{
+        width:21.7%;
+        float:left;
+    }  
+    .ame1{
+        width:21.7%;
+        float:left;
+    }  
+.view{
+    text-align:center;
+    background-color: beige;
+    font-size:20px;
+    margin-top:30px;
+    margin-bottom:40px;
+}
+.masterplan{
+    width:100%;
+    float:left;
+}
+.master{
+    text-align:center;
+    margin-bottom:10px;
+    background: #fafafa;
+}
+.masterplan{
+    background-image:url(../images/masterplan.jpg);
+    padding:250px 0px;
+    background-repeat:no-repeat;
+    background-size:cover;
+    background-position:center;
+ 
+}
+.gallery h1{
+    text-align:center;
+    background: #fff;
+   }
+   .gallery12{
+     width:100%;
+     float:left;
+   }
+   .gallery12 img{
+       padding:20px;
+     margin-right:25px;
+     margin-left:50px;
+     margin-bottom:30px;
+     
+   }
+   .test h1{
+   text-align:center;
+   margin-top:50px;
+   margin-bottom:20px;
+   }
+   .testimonials p{
+       padding-bottom:30px;
+   }
+   .testimonials{
+       width:100%;
+       float:left;
+       text-align:center;
+       padding-bottom:20px;
+     
+   }
+   .test{
+   text-align:center;
+   background: rgb(250, 250, 250);
+   }
+   .contact us{
+       width:100%;
+       float:left;
+       
+   }
+   .contact{
+       text-align:center;
+   }
+   .contact h2{
+       margin-top:60px;
+       margin-bottom:30px;
+   }
+   .contact p{
+       padding-bottom:30px;
+   }
+   .mapping{
+       width:100%;
+       float:left;
+   }
+   .mapping iframe{
+       display:block;
+       max-width:100%;
+       padding:0px;
+      background-position:absolute;
+      
+   }
+   .black1{
+       width:100%;
+       float:left;
+   }
+   .black{
+       background-color: black;
+       margin-bottom: 20px;
+       padding-top:10px;
+       padding:20px;
+   }
+   .black1 p{
+       color:white;
+       font-size:15px;
+     padding-left:100px;
+   }
+   

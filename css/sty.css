@@ -1,0 +1,89 @@
+h1,h2,h3{
+	text-align:center;
+}
+*{
+	text-align:left;
+}
+
+.about{
+	background-color:orange;
+
+}
+
+.service{
+	background-color:pink;
+}
+#select{
+	background-color:blue;
+}
+ ul li{
+list-style-type:circle;	
+}
+
+ol li{
+	list-style-type:decimal;
+}
+
+
+.target-attribute h1{
+	color:blue;
+}
+.absolute-relative h1{
+	color:red;
+}
+.target-attribute.green-h1 h1 {
+	color:green;
+
+
+}
+.background{
+	background-color:rgb(116, 74, 172);
+    
+
+}
+.background p{
+	color:red;
+	text-align: center;
+}
+.background h1{
+	color:orange;
+	text-align: center;
+}
+.background-image{
+	background-image: url(../images/4.jpg);
+}
+.background-image h4{
+	color:white;
+	text-align:center;
+}
+.background-image li{
+	color:white;
+}
+.background-image p{
+	color:white;
+}
+.background{
+	background: url(../images/3.jpg);
+	height:500px;
+	
+}
+.h1{
+	 color:rgb(49, 21, 177);
+    
+}
+	
+
+.background{
+    background-image:url(../images/lap.jpg);
+	height:400px;
+
+}
+.background p{
+	color:black;
+}
+.p{
+	color:#d30d0d;
+	text-align:left;
+	
+
+}

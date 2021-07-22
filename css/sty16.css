@@ -1,0 +1,56 @@
+
+.one h1{
+    font-family: 'Dancing Script', cursive;
+    border:1px solid black;
+    font-weight:10;
+    font-variant: small-caps;
+}
+.one ol li{
+    font-size:40px;
+   
+}
+.one ol li{
+    font-style:italic;
+}
+.one ol li{
+    font-weight:700;
+}
+.css h1{
+    border:1px solid black;
+}
+
+.css ol li{
+    list-style-image:url(../images/tick.png);
+    list-style-position: inside;
+}
+.display h1{
+    border:1px solid black;
+}
+.block p{
+    display:block;
+}
+.none p{
+    display:none;
+}
+.inline p{
+    display:inline;
+    background-color: red;
+    height:300px;
+    width:200px;
+}
+.inline-block p{
+    display:inline-block;
+    background-color: rgb(20, 201, 140);
+    height:300px;
+    width:200px;
+}
+.visible h1{
+    border:1px solid black;
+}
+.visiblee p{
+    visibility:visible;
+}
+.hidden p{
+    visibility:hidden;
+    display:none;
+}
